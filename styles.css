@@ -1,3 +1,9 @@
+div {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
+
 .grid {
 	width: 808px;
 	height: 606px;
